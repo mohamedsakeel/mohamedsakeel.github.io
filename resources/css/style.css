@@ -1,6 +1,6 @@
 /* Imports */
 /* Fonts */
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;500;600;700&display=swap");
 /* Fonts */
 * {
   -webkit-box-sizing: border-box;
@@ -21,9 +21,9 @@ body {
   background-image: -webkit-gradient(linear, left top, right bottom, from(var(--pink-light)), to(var(--cyan-light)));
   background-image: linear-gradient(to bottom right, var(--pink-light), var(--cyan-light));
   background-attachment: fixed;
-  font-family: 'Poppins', sans-serif;
-  font-weight: 300;
-  font-size: 16px;
+  font-family: 'Assistant', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
   color: var(--blue-dark);
   line-height: 1.5;
   overflow-x: hidden;
